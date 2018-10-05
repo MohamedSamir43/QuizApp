@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1">1. Which one of these Assassins is Altaïr Ibn-La\'Ahad</string>
+    <string name="question_2">2. Which one of these logo is an assassins creed logo ?</string>
+    <string name="question_3">3. which company created assassin\'s creed franchise ?</string>
+    <string name="question_4">4. what\'s the name of the latest installment in assassins creed franchise ?</string>
+    <string name="submit">Submit</string>
+</resources>
